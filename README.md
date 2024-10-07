@@ -91,7 +91,7 @@ Make sure you have enough system resources (RAM and CPU) to run the llama3 model
 [Link to demo video]
 
 ### Presentation
-[Link to presentation slides]
+[https://1drv.ms/p/c/513b0cd02eb821e9/ESLxVwO6wGBChxKrddmahxwBXWIUp0HYsBG7AfnxamIhaA?e=tTc5X0]
 
 ### Live Demo
 [Link to hosted demo site]
