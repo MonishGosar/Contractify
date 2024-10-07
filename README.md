@@ -59,10 +59,10 @@ This approach allows the system to provide accurate, context-aware answers even 
 
 1. Start the Streamlit app:
    ```
-   streamlit run app.py
+   streamlit run ollama.py
    ```
 
-2. Open your web browser and navigate to the URL provided by Streamlit (usually `http://localhost:8501`).
+2. Open your web browser and navigate to the URL provided by Streamlit (usually `http://localhost:8000`).
 
 3. Use the sidebar to upload a PDF document.
 
