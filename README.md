@@ -1,13 +1,29 @@
 # Contractual Documentation Summarization & QnA Chatbot
 
-This project provides a Streamlit-based web application for processing, summarizing, and interacting with contractual documents. It uses natural language processing and machine learning techniques to extract information from PDFs, generate summaries, and answer questions based on the document content.
+This project provides a Streamlit-based web application for processing, summarizing, and interacting with contractual documents. It uses Retrieval-Augmented Generation (RAG) and other natural language processing techniques to extract information from PDFs, generate summaries, and answer questions based on the document content.
 
 ## Features
 
 - PDF document upload and text extraction
 - Automatic document summarization
-- Question-answering capability based on document content
+- Question-answering capability using RAG
 - User-friendly web interface
+
+## How it Works
+
+1. *Document Processing*: The application extracts text from uploaded PDF documents and splits it into manageable chunks.
+
+2. *Vectorization*: Text chunks are converted into vector embeddings using HuggingFace embeddings and stored in a FAISS vector database.
+
+3. *Summarization*: The application generates a concise summary of the document using the Ollama LLM.
+
+4. *Question Answering*: When a user asks a question, the system:
+   - Retrieves relevant text chunks from the vector store (Retrieval)
+   - Combines these chunks with the question to prompt the LLM (Augmented Generation)
+   - Generates an answer based on the retrieved context and the question
+
+This approach allows the system to provide accurate, context-aware answers even for large documents.
+
 
 ## Requirements
 
