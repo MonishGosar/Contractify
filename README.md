@@ -4,12 +4,12 @@ A sophisticated contract analysis tool that leverages RAG (Retrieval-Augmented G
 
 ## 🌟 Features
 
-- **Document Processing**: Upload and analyze PDF contracts
-- **Smart Summarization**: Get concise, structured summaries of complex legal documents
-- **Interactive Q&A**: Ask questions about your contracts via text or voice
-- **Compliance Analysis**: Generate detailed compliance reports with risk assessments
-- **Text-to-Speech**: Listen to answers and summaries with built-in TTS
-- **PDF Export**: Download compliance reports in PDF format
+- **Document Processing**: Upload and analyze PDF contracts.
+- **Smart Summarization**: Get concise, structured summaries of complex legal documents.
+- **Interactive Q&A**: Ask questions about your contracts via text or voice.
+- **Compliance Analysis**: Generate detailed compliance reports with risk assessments.
+- **Text-to-Speech**: Listen to answers and summaries with built-in TTS.
+- **PDF Export**: Download compliance reports in PDF format.
 
 ## 🔧 Requirements
 
@@ -26,19 +26,11 @@ A sophisticated contract analysis tool that leverages RAG (Retrieval-Augmented G
 
 ## 🎯 Use Cases
 
-- Legal document analysis
-- Contract review and summarization
-- Compliance checking
-- Quick contract Q&A
-- Risk assessment
-
-## 📝 License
-
-MIT License
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
+- Legal document analysis.
+- Contract review and summarization.
+- Compliance checking.
+- Quick contract Q&A.
+- Risk assessment.
 
 ## ⭐️ Support
 
