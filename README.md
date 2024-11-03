@@ -11,7 +11,35 @@ A sophisticated contract analysis tool that leverages RAG (Retrieval-Augmented G
 - **Text-to-Speech**: Listen to answers and summaries with built-in TTS
 - **PDF Export**: Download compliance reports in PDF format
 
-## 🚀 Quick Start
+## 🔧 Requirements
 
-1. Clone the repository
-2. Install dependencies:
+- Python 3.8+
+- Streamlit
+- Google Generative AI
+- PyPDF2
+- SentenceTransformers
+- FAISS
+- pyttsx3
+- Speech Recognition
+- WeasyPrint
+- PDFKit
+
+## 🎯 Use Cases
+
+- Legal document analysis
+- Contract review and summarization
+- Compliance checking
+- Quick contract Q&A
+- Risk assessment
+
+## 📝 License
+
+MIT License
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## ⭐️ Support
+
+Give a ⭐️ if this project helped you!
