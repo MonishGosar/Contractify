@@ -1,4 +1,4 @@
-# Contractual Documentation Summarization & QnA Chatbot
+# Contractify: RAG-Powered QA Bot for Legal Contract Assistance
 
 This project provides a Streamlit-based web application for processing, summarizing, and interacting with contractual documents. It uses Retrieval-Augmented Generation (RAG) and other natural language processing techniques to extract information from PDFs, generate summaries, and answer questions based on the document content.
 
